@@ -1,0 +1,50 @@
+**Report begining :**
+k=2, best_value=490
+k=4, best_value=555
+k=6, best_value=441
+k=8, best_value=494
+k=10, best_value=539
+k=12, best_value=498
+k=14, best_value=519
+k=16, best_value=592
+k=18, best_value=596
+**Report begining :**
+k=2, best_value=536
+k=4, best_value=512
+k=6, best_value=475
+k=8, best_value=595
+k=10, best_value=333
+k=12, best_value=579
+k=14, best_value=465
+k=16, best_value=576
+k=18, best_value=595
+**Report begining :**
+k=2, best_value=-1
+k=4, best_value=350
+k=6, best_value=431
+k=8, best_value=538
+k=10, best_value=559
+k=12, best_value=299
+k=14, best_value=494
+k=16, best_value=543
+k=18, best_value=507
+**Report begining :**
+k=2, best_value=-1
+k=4, best_value=471
+k=6, best_value=469
+k=8, best_value=370
+k=10, best_value=448
+k=12, best_value=632
+k=14, best_value=521
+k=16, best_value=510
+k=18, best_value=594
+**Report begining :**
+k=2, best_value=-1
+k=4, best_value=546
+k=6, best_value=387
+k=8, best_value=396
+k=10, best_value=475
+k=12, best_value=628
+k=14, best_value=586
+k=16, best_value=475
+k=18, best_value=518
