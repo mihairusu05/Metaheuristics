@@ -1,0 +1,20 @@
+
+**Report begining for berlin52 instance with random start**
+For iterations=100, max_tries=4, sample_size for neighbour amount=200 we got result = 7745.799576372317
+For iterations=250, max_tries=4, sample_size for neighbour amount=200 we got result = 7824.793563708449
+For iterations=500, max_tries=4, sample_size for neighbour amount=200 we got result = 7544.36590190409
+For iterations=1000, max_tries=4, sample_size for neighbour amount=200 we got result = 7854.352391256169
+For iterations=1250, max_tries=4, sample_size for neighbour amount=200 we got result = 7544.36590190409
+For iterations=1500, max_tries=4, sample_size for neighbour amount=200 we got result = 7716.68587732763
+For iterations=2000, max_tries=4, sample_size for neighbour amount=200 we got result = 7544.36590190409
+For iterations=2250, max_tries=4, sample_size for neighbour amount=200 we got result = 7544.36590190409
+
+**Report begining for berlin52 instance with greedy start**
+For iterations=100, max_tries=4, sample_size for neighbour amount=200 we got result = 7970.603534476387
+For iterations=250, max_tries=4, sample_size for neighbour amount=200 we got result = 7974.616253731682
+For iterations=500, max_tries=4, sample_size for neighbour amount=200 we got result = 7735.798385217679
+For iterations=1000, max_tries=4, sample_size for neighbour amount=200 we got result = 7760.632623627774
+For iterations=1250, max_tries=4, sample_size for neighbour amount=200 we got result = 7544.36590190409
+For iterations=1500, max_tries=4, sample_size for neighbour amount=200 we got result = 7544.36590190409
+For iterations=2000, max_tries=4, sample_size for neighbour amount=200 we got result = 7760.632623627774
+For iterations=2250, max_tries=4, sample_size for neighbour amount=200 we got result = 7544.36590190409
