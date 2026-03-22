@@ -1,0 +1,16 @@
+
+Report for ../Lab3Assigment3/berlin52.tsp
+
+Checking vor change in result compared to change in iteration nr
+iterations=100, max_tries=4, sample_size=50, result=7869.499434655394
+iterations=250, max_tries=4, sample_size=50, result=7730.028038079429
+iterations=500, max_tries=4, sample_size=50, result=7928.918687328642
+iterations=750, max_tries=4, sample_size=50, result=7847.054396303472
+iterations=1000, max_tries=4, sample_size=50, result=7842.360271980318
+
+Checking for change in result compared to change in sample_size
+iterations=100, max_tries=4, sample_size=50, result=7884.658993842843
+iterations=100, max_tries=4, sample_size=100, result=8020.966461171483
+iterations=100, max_tries=4, sample_size=200, result=7834.111530030962
+iterations=100, max_tries=4, sample_size=500, result=7841.387787835103
+iterations=100, max_tries=4, sample_size=1000, result=7716.68587732763

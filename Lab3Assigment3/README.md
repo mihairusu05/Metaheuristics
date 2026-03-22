@@ -43,30 +43,31 @@ the tabu list from blocking genuinely superior solutions.
 Tabu tenure: set to 3*n as recommended in the course slides, where n is the number of
 cities. For berlin52 this gives tenure=156, for rw1621 this gives tenure=4863.
 
-Sample size: for berlin52 a sample of 200 pairs was used out of 1326 possible pairs. 
-For rw1621 a sample of 5000 pairs was used out of 1,313,010 possible pairs .
-
-Max tries: 4 independent restarts for all experiments, each starting from a fresh greedy or random one
-solution with a different random starting city.
+Sample size: for berlin52 we used for iterations [100, 250, 500, 750 ,100] and sample_size [50, 100, 200, 500, 1000]
+            for rw1621 we used for iterations [5, 10, 20, 40, 80, 160] and sample size [50, 100, 200, 400, 800, 1600]            
 
 
 4. Results
 
-For belin52:
+For belin52: (n = 52, known optimal = 7542)
 
-The best result achieved was 7544.37, within 0.03% of the known optimal of 7542.
-This result was found by both initialization strategies at sufficient iteration counts.
+The best result achieved was 7730(250 iterations sample size 50) 
+but we can easily reach better results due to the low nr of cities.
 
-Instance: rw1621 (n=1621, known optimal = 26051)
+Also best result for one time run is 7544 for iterations 500 and sample size 1000 and took aprox 2 min
 
-Best result achieved: approximately 32106 (iterations=10, sample_size=5000, max_tries=4).
-This is approximately 23% above the known optimal of 26051.
+
+For rw1621: (n=1621, known optimal = 26051)
+
+Best result achieved: approximately 32198 (iterations 5 sample_size 800 max_tries 4).
+In this case as well we can reach better results for a one time run but it would take a lot of
+time to get a conclusive report.
 
 
 5. Discussion
 
-For berlin52 the Tabu Search implementation achieves near-optimal results (7544 vs
-optimal 7542) at higher iteration counts, demonstrating that the algorithm is working
+For berlin52 the Tabu Search implementation achieves near-optimal results (7730 vs
+optimal 7542) at low iteration counts, demonstrating that the algorithm is working
 correctly. The 2-opt neighborhood is well-suited to TSP as it directly removes crossing
 paths, which are the primary source of suboptimality in TSP tours.
 
@@ -75,9 +76,9 @@ escapes local optima. In several runs the current solution was seen to worsen te
 (moving to a longer tour) before finding a shorter one in subsequent iterations -- this
 is the key mechanism that distinguishes Tabu Search from pure hill-climbing.
 
-For rw1621 the result of 32106 is significantly above the optimal of 26051 due to two
-constraints. First, the neighborhood sample of 5000 out of 1.3 million pairs means that
-only 0.4% of possible improvements are considered per iteration. Second, with only 10
+For rw1621 the result of 32198 is significantly above the optimal of 26051 due to two
+constraints. First, the neighborhood sample of 800 out of 1.3 million pairs means that
+very few improvements are considered per iteration. Second, with only 5
 iterations per try the search has very limited time to improve from the greedy starting
 point.
 

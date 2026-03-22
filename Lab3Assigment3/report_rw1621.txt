@@ -1,0 +1,18 @@
+   
+Report for ../Lab3Assigment3/rw1621.tsp
+
+Checking vor change in result compared to change in iteration nr
+iterations=5, max_tries=4, sample_size=50, result=32421.90140593413
+iterations=10, max_tries=4, sample_size=50, result=32821.535984095375
+iterations=20, max_tries=4, sample_size=50, result=32565.060216366506
+iterations=40, max_tries=4, sample_size=50, result=32300.67503888374
+iterations=80, max_tries=4, sample_size=50, result=32348.982691200246
+iterations=160, max_tries=4, sample_size=50, result=32843.123722303404
+
+Checking for change in result compared to change in sample_size
+iterations=5, max_tries=4, sample_size=50, result=32286.065893455394
+iterations=5, max_tries=4, sample_size=100, result=33060.215661334725
+iterations=5, max_tries=4, sample_size=200, result=32360.717409976198
+iterations=5, max_tries=4, sample_size=400, result=32395.93471274529
+iterations=5, max_tries=4, sample_size=800, result=32198.45264650011
+iterations=5, max_tries=4, sample_size=1600, result=32462.36279480135
