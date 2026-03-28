@@ -151,27 +151,17 @@ division structure that meaningful search is barely possible. For knapsack-20 wi
 20 bits, occasional lucky random starts can still find the optimal, but this is not
 reliable. For knapsack-200 the results are consistently worse than geometric.
 
-This is a fundamental limitation of the cumulative recurrence T(k+1) = T(k)/f(k) --
-the temperature after k steps is T_max divided by the product of all f(1)...f(k), which
-grows extremely fast (factorial for linear, product of logs for logarithmic). A non-
-cumulative version such as T(k) = T_max/k would give more controlled cooling but does
-not match the recurrence definition in the course slides.
-
 Key parameter insights:
 
 - alpha (geometric only): the most impactful parameter. Values close to 1 (0.999) allow
   slow cooling and thorough exploration. Values of 0.9 cool 10x faster and miss many
   good solutions.
-- T_max: matters primarily for logarithmic and linear schedules (determines how many
-  steps occur). For geometric, moderate T_max (1000-10000) is sufficient.
 - iterations_per_temp: should be at least equal to problem size n. For knapsack-20,
   iterations=20; for knapsack-200, iterations=200 is a natural baseline.
-- T_min: affects number of geometric steps. Lower T_min gives more steps but diminishing
-  returns below 0.01 for these instances.
 
 Comparison with previous labs:
 
-SA with geometric cooling outperforms both random search and SAHC from Labs 1 and 2.
+SA with geometric cooling outperforms both random search, tabu search and SAHC from Labs 1 and 2.
 For knapsack-200, the best SA result (134836) exceeds the previously best known result
 of 132910 from random search, demonstrating SA's ability to find superior solutions
 through guided probabilistic exploration.
