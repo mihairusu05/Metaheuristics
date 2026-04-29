@@ -1,0 +1,54 @@
+
+____Report for rwanda_report.txt STARTED______
+
+Nr_of_iterations=1, nr_of_ants=1, result=32276.665616157425, time=5.602798938751221s
+
+Nr_of_iterations=1, nr_of_ants=2, result=32276.665616157425, time=8.764606475830078s
+
+Nr_of_iterations=1, nr_of_ants=5, result=32276.665616157425, time=20.33140778541565s
+
+Nr_of_iterations=1, nr_of_ants=8, result=32276.665616157425, time=37.60998487472534s
+
+Nr_of_iterations=1, nr_of_ants=10, result=32276.665616157425, time=40.11032676696777s
+
+Nr_of_iterations=2, nr_of_ants=1, result=32276.665616157425, time=8.302304983139038s
+
+Nr_of_iterations=2, nr_of_ants=2, result=32276.665616157425, time=16.277976751327515s
+
+Nr_of_iterations=2, nr_of_ants=5, result=32276.665616157425, time=39.30679774284363s
+
+Nr_of_iterations=2, nr_of_ants=8, result=32276.665616157425, time=66.27547407150269s
+
+Nr_of_iterations=2, nr_of_ants=10, result=32276.665616157425, time=78.37725019454956s
+
+Nr_of_iterations=5, nr_of_ants=1, result=32276.665616157425, time=20.548240661621094s
+
+Nr_of_iterations=5, nr_of_ants=2, result=32276.665616157425, time=41.596741914749146s
+
+Nr_of_iterations=5, nr_of_ants=5, result=32276.665616157425, time=96.66259336471558s
+
+Nr_of_iterations=5, nr_of_ants=8, result=32276.665616157425, time=159.3046281337738s
+
+Nr_of_iterations=5, nr_of_ants=10, result=32276.665616157425, time=211.792715549469s
+
+Nr_of_iterations=8, nr_of_ants=1, result=32276.665616157425, time=31.47654104232788s
+
+Nr_of_iterations=8, nr_of_ants=2, result=32276.665616157425, time=70.95185852050781s
+
+Nr_of_iterations=8, nr_of_ants=5, result=32276.665616157425, time=164.87308979034424s
+
+Nr_of_iterations=8, nr_of_ants=8, result=32276.665616157425, time=278.8726282119751s
+
+Nr_of_iterations=8, nr_of_ants=10, result=32276.665616157425, time=342.0179126262665s
+
+Nr_of_iterations=10, nr_of_ants=1, result=32276.665616157425, time=44.15710425376892s
+
+Nr_of_iterations=10, nr_of_ants=2, result=32276.665616157425, time=88.20734071731567s
+
+Nr_of_iterations=10, nr_of_ants=5, result=32276.665616157425, time=215.5162672996521s
+
+Nr_of_iterations=10, nr_of_ants=8, result=32276.665616157425, time=344.98194551467896s
+
+Nr_of_iterations=10, nr_of_ants=10, result=32115.303709201573, time=401.48266434669495s
+
+____Report for rwanda_report.txt is OVER______

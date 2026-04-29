@@ -1,0 +1,144 @@
+
+____Report for berlin_report.txt STARTED______
+
+Nr_of_iterations=1, nr_of_ants=1, result=8980.91827932919, time=0.014569520950317383s
+
+Nr_of_iterations=1, nr_of_ants=2, result=8980.91827932919, time=0.012701988220214844s
+
+Nr_of_iterations=1, nr_of_ants=5, result=8980.91827932919, time=0.014394044876098633s
+
+Nr_of_iterations=1, nr_of_ants=10, result=8182.191555725674, time=0.018139362335205078s
+
+Nr_of_iterations=1, nr_of_ants=20, result=8502.165604670145, time=0.02748560905456543s
+
+Nr_of_iterations=1, nr_of_ants=26, result=7969.3611066499725, time=0.03650474548339844s
+
+Nr_of_iterations=1, nr_of_ants=52, result=8622.754243630814, time=0.06640267372131348s
+
+Nr_of_iterations=2, nr_of_ants=1, result=8980.91827932919, time=0.00573420524597168s
+
+Nr_of_iterations=2, nr_of_ants=2, result=8980.91827932919, time=0.00807809829711914s
+
+Nr_of_iterations=2, nr_of_ants=5, result=8897.788849202974, time=0.015189886093139648s
+
+Nr_of_iterations=2, nr_of_ants=10, result=8918.005695685766, time=0.028145313262939453s
+
+Nr_of_iterations=2, nr_of_ants=20, result=8573.010289846636, time=0.05287766456604004s
+
+Nr_of_iterations=2, nr_of_ants=26, result=8709.490095143201, time=0.06853127479553223s
+
+Nr_of_iterations=2, nr_of_ants=52, result=8102.868814968662, time=0.14494752883911133s
+
+Nr_of_iterations=5, nr_of_ants=1, result=8768.073749525573, time=0.011370658874511719s
+
+Nr_of_iterations=5, nr_of_ants=2, result=8841.46147919231, time=0.01907491683959961s
+
+Nr_of_iterations=5, nr_of_ants=5, result=8852.117222209241, time=0.039696455001831055s
+
+Nr_of_iterations=5, nr_of_ants=10, result=8050.572816055551, time=0.07280588150024414s
+
+Nr_of_iterations=5, nr_of_ants=20, result=7928.804048564448, time=0.13864779472351074s
+
+Nr_of_iterations=5, nr_of_ants=26, result=8329.99155849544, time=0.20776128768920898s
+
+Nr_of_iterations=5, nr_of_ants=52, result=7983.581102163953, time=0.3426475524902344s
+
+Nr_of_iterations=10, nr_of_ants=1, result=8667.484113139899, time=0.020093917846679688s
+
+Nr_of_iterations=10, nr_of_ants=2, result=8980.91827932919, time=0.03216886520385742s
+
+Nr_of_iterations=10, nr_of_ants=5, result=8525.77850765003, time=0.06823325157165527s
+
+Nr_of_iterations=10, nr_of_ants=10, result=8449.001084897325, time=0.13267874717712402s
+
+Nr_of_iterations=10, nr_of_ants=20, result=8120.164947824453, time=0.25559210777282715s
+
+Nr_of_iterations=10, nr_of_ants=26, result=7852.903472939086, time=0.32317113876342773s
+
+Nr_of_iterations=10, nr_of_ants=52, result=7548.992710024182, time=0.6539871692657471s
+
+Nr_of_iterations=20, nr_of_ants=1, result=8809.710798857102, time=0.03754591941833496s
+
+Nr_of_iterations=20, nr_of_ants=2, result=8823.833791641706, time=0.06683516502380371s
+
+Nr_of_iterations=20, nr_of_ants=5, result=8565.59663551787, time=0.14518523216247559s
+
+Nr_of_iterations=20, nr_of_ants=10, result=8038.280451359921, time=0.263530969619751s
+
+Nr_of_iterations=20, nr_of_ants=20, result=7675.145050692485, time=0.577833890914917s
+
+Nr_of_iterations=20, nr_of_ants=26, result=7548.992710024182, time=0.6725122928619385s
+
+Nr_of_iterations=20, nr_of_ants=52, result=7783.040534312516, time=1.2891054153442383s
+
+Nr_of_iterations=50, nr_of_ants=1, result=8980.91827932919, time=0.09554862976074219s
+
+Nr_of_iterations=50, nr_of_ants=2, result=8693.119247088416, time=0.15793108940124512s
+
+Nr_of_iterations=50, nr_of_ants=5, result=7790.595564456441, time=0.34183692932128906s
+
+Nr_of_iterations=50, nr_of_ants=10, result=7942.550157551881, time=0.6850631237030029s
+
+Nr_of_iterations=50, nr_of_ants=20, result=8012.749256027994, time=1.313713550567627s
+
+Nr_of_iterations=50, nr_of_ants=26, result=7548.992710024182, time=1.600891351699829s
+
+Nr_of_iterations=50, nr_of_ants=52, result=7544.36590190409, time=3.2021913528442383s
+
+Nr_of_iterations=100, nr_of_ants=1, result=8850.448814458447, time=0.17644643783569336s
+
+Nr_of_iterations=100, nr_of_ants=2, result=8739.96193393836, time=0.30300092697143555s
+
+Nr_of_iterations=100, nr_of_ants=5, result=8670.590511260003, time=0.6553094387054443s
+
+Nr_of_iterations=100, nr_of_ants=10, result=8192.445040935918, time=1.2448065280914307s
+
+Nr_of_iterations=100, nr_of_ants=20, result=7548.992710024182, time=2.643339157104492s
+
+Nr_of_iterations=100, nr_of_ants=26, result=7993.074059549664, time=3.1740572452545166s
+
+Nr_of_iterations=100, nr_of_ants=52, result=7658.958320375772, time=6.24149751663208s
+
+Nr_of_iterations=200, nr_of_ants=1, result=8739.96193393836, time=0.34548401832580566s
+
+Nr_of_iterations=200, nr_of_ants=2, result=8807.766913114967, time=0.5859363079071045s
+
+Nr_of_iterations=200, nr_of_ants=5, result=8746.815956704046, time=1.3309173583984375s
+
+Nr_of_iterations=200, nr_of_ants=10, result=8220.334035185339, time=2.665395975112915s
+
+Nr_of_iterations=200, nr_of_ants=20, result=7917.395540014957, time=5.0864434242248535s
+
+Nr_of_iterations=200, nr_of_ants=26, result=7724.5412396280435, time=6.291975021362305s
+
+Nr_of_iterations=200, nr_of_ants=52, result=7544.36590190409, time=12.59299612045288s
+
+Nr_of_iterations=500, nr_of_ants=1, result=8818.695932063934, time=0.8685727119445801s
+
+Nr_of_iterations=500, nr_of_ants=2, result=8923.661511704879, time=1.4910950660705566s
+
+Nr_of_iterations=500, nr_of_ants=5, result=8135.64017159074, time=3.2071938514709473s
+
+Nr_of_iterations=500, nr_of_ants=10, result=7977.967191924645, time=6.167760848999023s
+
+Nr_of_iterations=500, nr_of_ants=20, result=7760.632623627774, time=12.019983530044556s
+
+Nr_of_iterations=500, nr_of_ants=26, result=7544.36590190409, time=15.558019638061523s
+
+Nr_of_iterations=500, nr_of_ants=52, result=7544.36590190409, time=31.99382448196411s
+
+Nr_of_iterations=1000, nr_of_ants=1, result=8709.381831587976, time=1.8623452186584473s
+
+Nr_of_iterations=1000, nr_of_ants=2, result=8943.797922068563, time=3.1207103729248047s
+
+Nr_of_iterations=1000, nr_of_ants=5, result=8738.715600608077, time=6.7976202964782715s
+
+Nr_of_iterations=1000, nr_of_ants=10, result=8132.829764147527, time=13.085338592529297s
+
+Nr_of_iterations=1000, nr_of_ants=20, result=7544.36590190409, time=25.863935232162476s
+
+Nr_of_iterations=1000, nr_of_ants=26, result=7854.021985012199, time=32.8488404750824s
+
+Nr_of_iterations=1000, nr_of_ants=52, result=7544.36590190409, time=61.81280326843262s
+
+____Report for berlin_report.txt is OVER______
