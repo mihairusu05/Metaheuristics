@@ -1,0 +1,39 @@
+
+Optimal allocation
+Start date = 2019-01-01
+End date = 2024-01-01
+AAPL : 33.9%
+GOOGL : 0.0%
+MSFT : 12.8%
+JPM : 0.6%
+GLD : 52.7%
+
+Optimal allocation
+Start date = 2007-01-01
+End date = 2012-01-01
+AAPL : 35.7%
+GOOGL : 0.1%
+MSFT : 0.1%
+JPM : 0.1%
+GLD : 64.0%
+
+Optimal allocation
+Start date = 2020-01-01
+End date = 2023-01-01
+NVDA : 41.4%
+TSLA : 27.7%
+META : 30.9%
+
+Optimal allocation
+Start date = 2001-01-01
+End date = 2007-01-01
+JNJ : 33.5%
+PG : 66.5%
+KO : 0.0%
+
+Optimal allocation
+Start date = 2020-01-01
+End date = 2023-01-01
+XOM : 45.8%
+CVX : 1.1%
+SLV : 53.2%
